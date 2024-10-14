@@ -13,7 +13,15 @@
 
 I am currently pursuing a degree in Artificial Intelligence and Data Science at GGSIPU. In my role as the **president of the Enactus society**, I lead initiatives that empower students to develop entrepreneurial skills and promote social entrepreneurship.
 
-# 💡 Passion & Interests
+# 💡 Soft Skills
+I believe that technical skills are complemented by strong soft skills, which include:
+
+Leadership: Proven ability to lead and motivate teams toward achieving common goals.
+Communication: Effective communicator, able to convey complex ideas clearly and concisely to diverse audiences.
+Collaboration: Strong team player who thrives in collaborative environments and enjoys brainstorming innovative solutions.
+Adaptability: Quick to learn and adapt to new challenges and technologies, maintaining a positive attitude.
+
+# 🌱 Passion & Interests
 
 I’m passionate about leveraging technology to create impactful solutions and continuously improving my skills. In addition to my technical pursuits, I enjoy reading tech blogs, and engaging in community service.
 Im recipent of GOOGLE GENERATION SCHOLARSHIP FOR WOMEN IN APAC, Selected amoungst 30 Women across ASIA !
