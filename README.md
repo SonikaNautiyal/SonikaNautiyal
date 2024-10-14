@@ -13,7 +13,7 @@
 
 I am currently pursuing a degree in Artificial Intelligence and Data Science at GGSIPU. In my role as the **president of the Enactus society**, I lead initiatives that empower students to develop entrepreneurial skills and promote social entrepreneurship.
 
-#💡 Passion & Interests
+# 💡 Passion & Interests
 
 I’m passionate about leveraging technology to create impactful solutions and continuously improving my skills. In addition to my technical pursuits, I enjoy reading tech blogs, and engaging in community service.
 Im recipent of GOOGLE GENERATION SCHOLARSHIP FOR WOMEN IN APAC, Selected amoungst 30 Women across ASIA !
